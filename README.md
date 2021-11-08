@@ -18,3 +18,6 @@
 #### 4. Apply Output Posteriors to Opacity Score Computation NNs to Obtain Scores
 #### 5. Discarding Extreme Samples and the Range Becomes Prediction Interval
 #### 6. Median of Scores Indicate the Level of Aleatoric Uncertainty
+
+
+Individual folders have separate readme files.
