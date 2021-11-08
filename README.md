@@ -14,10 +14,10 @@
 ## Steps During Execution:
 #### 1. Data Preparation: DICOM to RGB
 #### 2. Apply Pre-trained Portion of Model and Saving Features
-#### 3. Apply Feature to N-number of FC Layers and Obtain N-number of Output Posteriors 
+#### 3. Apply Features to N-number of FC Layers and Obtain N-number of Output Posteriors 
 #### 4. Apply Output Posteriors to Opacity Score Computation NNs to Obtain Scores
 #### 5. Discarding Extreme Samples and the Range Becomes Prediction Interval
-#### 6. Median of Scores Indicate the Level of Aleatoric Uncertainty
+#### 6. Median of Scores Indicate the Level of Aleatoric Uncertainty and Model Selection Uncertainty
 
 
 Individual folders have separate readme files.
