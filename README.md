@@ -1,6 +1,6 @@
-## Aleatory-aware Deep Uncertainty Quantification for Transfer Learning
+# Aleatory-aware Deep Uncertainty Quantification for Transfer Learning
 
-### Steps During Training:
+## Steps During Training:
 #### 1. Data Preparation: DICOM to RGB
 #### 2. Transfer Learning on Data and Saving Fully-Connected(FC) Layer and Output Posterior
 #### 3. Opacity Score Computation from Training Output Posteriors
@@ -11,7 +11,7 @@
 
 
 
-### Steps During Execution:
+## Steps During Execution:
 #### 1. Data Preparation: DICOM to RGB
 #### 2. Apply Pre-trained Portion of Model and Saving Features
 #### 3. Apply Feature to N-number of FC Layers and Obtain N-number of Output Posteriors 
