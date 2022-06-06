@@ -29,3 +29,13 @@ Figure : Transfer learning with ensembling of fully-connected layers for both al
 
 
 Individual folders have separate readme files.
+
+## Citation:
+@article{kabir2022aleatory,
+  title={Aleatory-aware deep uncertainty quantification for transfer learning},
+  author={Kabir, HM Dipu and Khanam, Sadia and Khozeimeh, Fahime and Khosravi, Abbas and Mondal, Subrota Kumar and Nahavandi, Saeid and Acharya, U Rajendra},
+  journal={Computers in Biology and Medicine},
+  pages={105246},
+  year={2022},
+  publisher={Elsevier}
+}
